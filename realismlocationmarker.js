@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         Building Locations "Realism Location Marker"
 // @namespace    www.missionchief-unofficial.com
