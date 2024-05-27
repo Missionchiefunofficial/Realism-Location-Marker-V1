@@ -1,2 +1,10 @@
-# Buildinglocations
-Building Locations "Realism Location Marker"
+# Preview Building Locations.
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/972231158865748028/1244440640440504341/image.png?ex=66551f29&is=6653cda9&hm=c3a83864c6f1463df260c20748290baf72e5d37b0b293640f3d9308b764ce9bc&=&format=webp&quality=lossless&width=665&height=423" />
+</p> 
+
+# Realism Location Marker ![version](https://badgen.net/badge/Version/1.0/) ![Discord](https://img.shields.io/discord/933050444949897226.svg?label=MissionChiefUnofficial&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+
+### **All Game Worlds are supported!**
+![country-au](https://img.shields.io/badge/AU%3F-yes-green.svg) ![country-br](https://img.shields.io/badge/BR%3F-yes-green.svg) ![country-cz](https://img.shields.io/badge/CZ%3F-yes-green.svg) ![country-de](https://img.shields.io/badge/DE%3F-yes-green.svg) ![country-dk](https://img.shields.io/badge/DK%3F-yes-green.svg) ![country-es](https://img.shields.io/badge/ES%3F-yes-green.svg) ![country-fl](https://img.shields.io/badge/FL%3F-yes-green.svg) ![country-fr](https://img.shields.io/badge/FR%3F-yes-green.svg) ![country-it](https://img.shields.io/badge/IT%3F-yes-green.svg) ![country-jp](https://img.shields.io/badge/JP%3F-yes-green.svg) ![country-kr](https://img.shields.io/badge/KR%3F-yes-green.svg) ![country-mx](https://img.shields.io/badge/MX%3F-yes-green.svg) ![country-nl](https://img.shields.io/badge/NL%3F-yes-green.svg) ![country-no](https://img.shields.io/badge/NO%3F-yes-green.svg)![country-pl](https://img.shields.io/badge/PL%3F-yes-green.svg) ![country-pt](https://img.shields.io/badge/PT%3F-yes-green.svg) ![country-ro](https://img.shields.io/badge/RO%3F-yes-green.svg) ![country-ru](https://img.shields.io/badge/RU%3F-yes-green.svg) ![country-se](https://img.shields.io/badge/SE%3F-yes-green.svg) ![country-sk](https://img.shields.io/badge/SK%3F-yes-green.svg) ![country-tr](https://img.shields.io/badge/TR%3F-yes-green.svg) ![country-ua](https://img.shields.io/badge/UA%3F-yes-green.svg) ![country-uk](https://img.shields.io/badge/UK%3F-yes-green.svg) ![country-us](https://img.shields.io/badge/US%3F-yes-green.svg)
