@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Building Locations "Realism Location Marker"
+// @name         Building Locations - Aiden Tester
 // @namespace    www.missionchief-unofficial.com
 // @version      1.0
-// @description  Displays Real locations in game map for players who want realism 
+// @description  Displays Real locations in game map for players who want realism
 // @author       MissionChief Unofficial Team
 // @homepage     https://lss-manager.de
 // @match        https://www.operacni-stredisko.cz/*
@@ -67,7 +67,9 @@
         { label: "Show Police Stations Locations", value: "amenity=police" },
         { label: "Show Hospital Locations", value: "amenity=hospital" },
         { label: "Show Lifeguard Station Locations", value: "emergency=lifeguard" },
-        { label: "Show Dispatch Control Locations", value: "emergency=control_centre"}
+        { label: "Show Dispatch Control Locations", value: "emergency=control_centre" },
+        { label: "Show Disaster Response Locations", value: "emergency=disaster_response" },
+        { label: "Show Mountain Rescue Locations", value: "emergency=mountain_rescue" }
     ];
 
     poiTypes.forEach(function (poi) {
