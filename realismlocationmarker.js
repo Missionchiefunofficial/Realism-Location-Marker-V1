@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Building Locations - Aiden Tester
+// @name         Building Locations "Realism Location Marker"
 // @namespace    www.missionchief-unofficial.com
 // @version      1.0
 // @description  Displays Real locations in game map for players who want realism
