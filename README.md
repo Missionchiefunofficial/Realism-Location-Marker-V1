@@ -1,7 +1,7 @@
 # Preview Building Locations.
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/923668360338759740/1243705835977183242/image.png?ex=66571012&is=6655be92&hm=0c142df84c240f7c39573fd4088d6a785a023a27793e71afc33464af382a8b4f&=&format=webp&quality=lossless&width=550&height=349" />
+  <img src="https://cdn.discordapp.com/attachments/950104187331567636/1271571175721402388/image.png?ex=66bb1e30&is=66b9ccb0&hm=689e9799171b193c8189424163f4ac94cc93f4eec0b7cb07651d950db23c0522&" />
 </p> 
 
 # Realism Location Marker ![version](https://badgen.net/badge/Version/1.0/) ![Discord](https://img.shields.io/discord/933050444949897226.svg?label=MissionChiefUnofficial&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
