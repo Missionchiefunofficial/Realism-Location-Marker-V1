@@ -61,7 +61,7 @@
     dropdown.style.borderRadius = '0px';
 
     var poiTypes = [
-        { label: "MissionChief Unofficial Markers Off", value: "" },
+        { label: "MissionChief Unofficial Markers Off V1", value: "" },
         { label: "Show Fire Station Locations", value: "amenity=fire_station" },
         { label: "Show Ambulance Station Locations", value: "emergency=ambulance_station" },
         { label: "Show Police Stations Locations", value: "amenity=police" },
