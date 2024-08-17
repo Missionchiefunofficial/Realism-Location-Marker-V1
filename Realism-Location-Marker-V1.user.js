@@ -30,6 +30,7 @@
 // @match        https://www.112-merkez.com/*
 // @require      https://github.com/Missionchiefunofficial/osmtogeojson/raw/gh-pages/osmtogeojson.js
 // @downloadURL  https://github.com/Missionchiefunofficial/Buildinglocations/raw/main/Realism-Location-Marker-V1.user.js
+// @updateURL    https://github.com/Missionchiefunofficial/Buildinglocations/raw/main/Realism-Location-Marker-V1.user.js
 // @icon         https://avatars.githubusercontent.com/u/170798253?s=400&u=f41df3f61e7c9381b488d8c7883af370e04d5ee6&v=4
 // @grant        none
 // ==/UserScript==
