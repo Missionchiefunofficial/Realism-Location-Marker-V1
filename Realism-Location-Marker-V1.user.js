@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Building Locations "Realism Location Marker"
 // @namespace    www.missionchief-unofficial.com
-// @version      1.0
+// @version      1.1
 // @description  Displays Real locations in game map for players who want realism
 // @author       MissionChief Unofficial Team
 // @homepage     https://lss-manager.de
@@ -66,6 +66,7 @@
         { label: "Show Ambulance Station Locations", value: "emergency=ambulance_station" },
         { label: "Show Police Stations Locations", value: "amenity=police" },
         { label: "Show Hospital Locations", value: "amenity=hospital" },
+        { label: "Show Prison Locations", value: "amenity=prison" },
         { label: "Show Lifeguard Station Locations", value: "emergency=lifeguard" },
         { label: "Show Dispatch Control Locations", value: "emergency=control_centre" },
         { label: "Show Disaster Response Locations", value: "emergency=disaster_response" },
