@@ -57,7 +57,7 @@
     dropdown.style.padding = '2px';
     dropdown.style.cursor = 'pointer';
     dropdown.style.border = 'none';
-    dropdown.style.background = '#000000';
+    dropdown.style.background = '#FFBF00';
     dropdown.style.color = '#fff';
     dropdown.style.borderRadius = '0px';
 
