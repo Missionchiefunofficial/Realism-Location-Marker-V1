@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Building Locations "Realism Location Marker"
 // @namespace    www.missionchief-unofficial.com
-// @version      1.1
+// @version      1.2
 // @description  Displays Real locations in game map for players who want realism
 // @author       MissionChief Unofficial Team
 // @homepage     https://missionchief-unofficial.com
@@ -71,7 +71,8 @@
         { label: "Show Lifeguard Station Locations", value: "emergency=lifeguard" },
         { label: "Show Dispatch Control Locations", value: "emergency=control_centre" },
         { label: "Show Disaster Response Locations", value: "emergency=disaster_response" },
-        { label: "Show Mountain Rescue Locations", value: "emergency=mountain_rescue" }
+        { label: "Show Mountain Rescue Locations", value: "emergency=mountain_rescue" },
+        { label: "Show Doctors Locations", value: "amenity=doctors" }
     ];
 
     poiTypes.forEach(function (poi) {
